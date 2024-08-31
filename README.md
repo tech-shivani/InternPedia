@@ -1,1 +1,1 @@
-# InternPedia
+"Repository for INERNPEDIA tasks"
